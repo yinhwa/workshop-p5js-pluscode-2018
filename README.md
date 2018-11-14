@@ -36,11 +36,11 @@ Por favor incluye esta información:
 
 ## Temario
 
-* [Software a usar]()
-* [Historia de p5.js y Processing]()
-* [Programación creativa para artes visuales y diseño gráfico]
-* [Mi comunidad]()
-* [Programación en p5.js]
+* [Software a usar](#software-a-usar)
+* [Historia de p5.js y Processing](#historia-de-p5js-y-processing)
+* [Programación creativa para artes visuales y diseño gráfico](#programaci%C3%B3n-creativa-para-artes-visuales-y-dise%C3%B1o-gr%C3%A1fico)
+* [Mi comunidad](#mi-comunidad)
+* [Programación en p5.js](#programaci%C3%B3n-en-p5js)
 * [Referencia](#referencia)
 
 ## Software a usar
