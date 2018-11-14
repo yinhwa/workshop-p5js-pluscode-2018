@@ -6,7 +6,7 @@ Workshop para el festival PlusCODE en Buenos Aires, noviembre 14 2018
 
 Este workshop de Introducción a la programación creativa con p5.js fue diseñado y es impartido por [Aarón Montoya-Moraga](http://montoyamoraga.io/). Este workshop incluye trabajo y material que ya ha sido usado por el autor para workshops similares.
 
-Esta versión fue enseñada en la [Universidad Nacional San Martín](http://www.unsam.edu.ar/), Buenos Aires, Argentina, miércoles 14 noviembre 2018, en el contexto del festival [PlusCODE](http://pluscode.cc/) y con el generoso apoyo de la [Processing Foundation](https://processingfoundation.org/).
+Esta versión fue enseñada en [ODD](http://oddcg.com/), Buenos Aires, Argentina, miércoles 14 noviembre 2018, en el contexto del festival [PlusCODE](http://pluscode.cc/) y con el generoso apoyo de la [Processing Foundation](https://processingfoundation.org/).
 
 ## Código de conducta
 
@@ -83,6 +83,8 @@ La [Processing Foundation](https://processingfoundation.org/)
 * [Afrotectopia](https://www.afrotectopia.com/), festival de artes mediales, cultura y tecnología organizado por [Ari Melenciano](http://ariciano.com/).
 
 * [CODED Escuela](http://codedescuela.cl/), colectivo chileno de educación de artes mediales, conformada por [Aarón Montoya-Moraga](http://montoyamoraga.io/), [Camila Colussi](https://www.camilacolussi.com/), [Christian Oyarzún](http://error404.cl/), [Guillermo Montecinos]() y [Natalia Cabrera](http://www.nataliacabrera.com/). Enseñan introducción a la programación para arte gráfico con p5.js, arte sonoro con ChucK, poesía con Python, entre otros.
+
+* [The Coding Train](https://www.youtube.com/user/shiffman): canal de Youtube dedicado a la enseñanza de programación creativa, por [Daniel Shiffman](https://shiffman.net/).
 
 * [Kadenze](https://www.kadenze.com/): cursos en línea, incluye [Introduction to Programming for the Visual Arts with p5.js](https://www.kadenze.com/courses/introduction-to-programming-for-the-visual-arts-with-p5-js-vi/info), por [Casey Reas](http://reas.com/) y [Lauren McCarthy](http://lauren-mccarthy.com/), y también [The Nature of Code](https://www.kadenze.com/courses/the-nature-of-code-ii/info), por [Daniel Shiffman](https://shiffman.net/).
 
