@@ -1,6 +1,6 @@
 # workshop-p5js-pluscode-2018
 
-Workshop para el festival PlusCODE en Buenos Aires, noviembre 14 2018
+Workshop para el [festival +CODE](http://pluscode.cc/) versión 2018, realizado en [ODD](http://oddcg.com/), Buenos Aires, Argentina, noviembre 14 2018.
 
 ## Acerca de
 
@@ -108,7 +108,19 @@ Ingresa al [Editor Web de p5.js](https://editor.p5js.org/).
 
 Ahora vamos a programar en p5.js =) !
 
-TODO: ingresar links a ejemplos realizados en clase.
+## Otras bibliotecas de JavaScript
+
+* [clmtrackr](https://github.com/auduno/clmtrackr), biblioteca de detección facial, desarrollada por [Audun Mathias Øygard](https://www.auduno.com/).
+* [ml5.js](https://ml5js.org/), biblioteca para aprendizaje de máquinas, desarrollada por la comunidad de [NYU ITP](https://tisch.nyu.edu/itp), incluyendo a [Daniel Shiffman](https://shiffman.net/), [Hannah Davis](http://www.hannahishere.com/),  [Cristóbal Valenzuela](https://cvalenzuelab.com/), [Alejandro Matamala](http://matamala.info/).
+* [Three.js](https://threejs.org/), biblioteca gráfica 3D, desarrollada por []
+* [Tone.js](https://tonejs.github.io/), biblioteca para crear aplicaciones musicales interactivas en el navegador, desarrollada por [Yotam Mann](https://yotammann.info/).
+
+## Otros recursos interesantes
+
+* [ml4a][http://ml4a.github.io/], libro Machine Learning for Artists.
+* [Runway](https://runwayapp.ai/), herramientas de aprendizaje de máquinas.
+* [Wekinator](http://www.wekinator.org/), plataforma para aprendizaje de máquinas. 
+
 
 ## Referencia
 
